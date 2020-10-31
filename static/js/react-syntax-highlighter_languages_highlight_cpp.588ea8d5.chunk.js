@@ -1,0 +1,1 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[38],{563:function(e,a){e.exports=function(e){var a=e.requireLanguage("c-like").rawDefinition();return a.disableAutodetect=!1,a.name="C++",a.aliases=["cc","c++","h++","hpp","hh","hxx","cxx"],a}}}]);

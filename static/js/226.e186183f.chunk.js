@@ -1,0 +1,1 @@
+(this.webpackJsonppages=this.webpackJsonppages||[]).push([[226],{460:function(e,t,n){"use strict";n.r(t);var s=n(1),c=n(0);t.default=function(e){return Object(c.useEffect)((function(){document.title=e.title}),[e.title]),Object(s.jsx)("p",{children:"404 - There was a wrong turn somewhere."})}}}]);
