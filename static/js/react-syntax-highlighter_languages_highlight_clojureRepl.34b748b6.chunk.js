@@ -1,1 +1,0 @@
-(this.webpackJsonppages=this.webpackJsonppages||[]).push([[33],{557:function(s,e){s.exports=function(s){return{name:"Clojure REPL",contains:[{className:"meta",begin:/^([\w.-]+|\s*#_)?=>/,starts:{end:/$/,subLanguage:"clojure"}}]}}}}]);
