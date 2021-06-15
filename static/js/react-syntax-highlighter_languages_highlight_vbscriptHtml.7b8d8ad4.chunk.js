@@ -1,1 +1,0 @@
-(this.webpackJsonppages=this.webpackJsonppages||[]).push([[179],{765:function(n,s){n.exports=function(n){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}}}]);

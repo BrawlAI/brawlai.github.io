@@ -1,1 +1,0 @@
-(this.webpackJsonppages=this.webpackJsonppages||[]).push([[1],{104:function(e,a,s){"use strict";s.r(a);s(0);var t=s(776),n=s(463),r=s(519),c=s(1);a.default=function(e){var a=e.code;return t.a.registerLanguage("python",n.a),Object(c.jsx)(t.a,{className:"code-format-syntax-highlighter",language:"python",style:r.a,showLineNumbers:!0,children:a})}}}]);
